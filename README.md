@@ -1,0 +1,2 @@
+# termo
+jogo termo simulação
